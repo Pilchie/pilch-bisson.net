@@ -1,5 +1,3 @@
-## pilch-bisson.net
-
 ## Contact
 
 * [Jacob Pilch-Bisson](mailto:jacob@pilch-bisson.net)
